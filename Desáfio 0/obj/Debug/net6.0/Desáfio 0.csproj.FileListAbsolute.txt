@@ -1,0 +1,15 @@
+E:\Livro\Desáfio 0\bin\Debug\net6.0\Desáfio 0.exe
+E:\Livro\Desáfio 0\bin\Debug\net6.0\Desáfio 0.deps.json
+E:\Livro\Desáfio 0\bin\Debug\net6.0\Desáfio 0.runtimeconfig.json
+E:\Livro\Desáfio 0\bin\Debug\net6.0\Desáfio 0.dll
+E:\Livro\Desáfio 0\bin\Debug\net6.0\Desáfio 0.pdb
+E:\Livro\Desáfio 0\obj\Debug\net6.0\Desáfio 0.csproj.AssemblyReference.cache
+E:\Livro\Desáfio 0\obj\Debug\net6.0\Desáfio 0.GeneratedMSBuildEditorConfig.editorconfig
+E:\Livro\Desáfio 0\obj\Debug\net6.0\Desáfio 0.AssemblyInfoInputs.cache
+E:\Livro\Desáfio 0\obj\Debug\net6.0\Desáfio 0.AssemblyInfo.cs
+E:\Livro\Desáfio 0\obj\Debug\net6.0\Desáfio 0.csproj.CoreCompileInputs.cache
+E:\Livro\Desáfio 0\obj\Debug\net6.0\Desáfio 0.dll
+E:\Livro\Desáfio 0\obj\Debug\net6.0\refint\Desáfio 0.dll
+E:\Livro\Desáfio 0\obj\Debug\net6.0\Desáfio 0.pdb
+E:\Livro\Desáfio 0\obj\Debug\net6.0\Desáfio 0.genruntimeconfig.cache
+E:\Livro\Desáfio 0\obj\Debug\net6.0\ref\Desáfio 0.dll
