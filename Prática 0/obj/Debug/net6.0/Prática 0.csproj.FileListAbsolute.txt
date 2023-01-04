@@ -1,0 +1,15 @@
+E:\Livro\Prática 0\obj\Debug\net6.0\Prática 0.csproj.AssemblyReference.cache
+E:\Livro\Prática 0\obj\Debug\net6.0\Prática 0.GeneratedMSBuildEditorConfig.editorconfig
+E:\Livro\Prática 0\obj\Debug\net6.0\Prática 0.AssemblyInfoInputs.cache
+E:\Livro\Prática 0\obj\Debug\net6.0\Prática 0.AssemblyInfo.cs
+E:\Livro\Prática 0\obj\Debug\net6.0\Prática 0.csproj.CoreCompileInputs.cache
+E:\Livro\Prática 0\bin\Debug\net6.0\Prática 0.exe
+E:\Livro\Prática 0\bin\Debug\net6.0\Prática 0.deps.json
+E:\Livro\Prática 0\bin\Debug\net6.0\Prática 0.runtimeconfig.json
+E:\Livro\Prática 0\bin\Debug\net6.0\Prática 0.dll
+E:\Livro\Prática 0\bin\Debug\net6.0\Prática 0.pdb
+E:\Livro\Prática 0\obj\Debug\net6.0\Prática 0.dll
+E:\Livro\Prática 0\obj\Debug\net6.0\refint\Prática 0.dll
+E:\Livro\Prática 0\obj\Debug\net6.0\Prática 0.pdb
+E:\Livro\Prática 0\obj\Debug\net6.0\Prática 0.genruntimeconfig.cache
+E:\Livro\Prática 0\obj\Debug\net6.0\ref\Prática 0.dll
